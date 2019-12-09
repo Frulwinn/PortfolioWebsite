@@ -1,7 +1,7 @@
 ---
 title: "Three Wishes"
 description: "three wishes"
-slug: "three wishes"
+slug: "threewishes"
 date: 2017-10-31T22:42:51-05:00
 draft: false
 ---
