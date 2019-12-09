@@ -1,12 +1,7 @@
 ---
 title: "Resume"
-description: "This doesn't seem to be showing"
+description: "resume"
 slug: "resume"
-image: pic07.jpg
-keywords: ""
-categories: 
-    - ""
-    - ""
 date: 2017-10-31T22:42:51-05:00
 draft: false
 ---
