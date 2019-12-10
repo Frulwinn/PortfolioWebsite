@@ -101,7 +101,7 @@ disqusShortname = ""
       title = "Three Wishes"
       subtitle = "Give gifts from their wish list"
       image = "GiftingRed.jpg"
-      url = "public/projects/threewishes"
+      url = "/projects/threewishes"
 
     [[params.tiles.showcase]]
       title = "Unblush"
